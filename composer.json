@@ -1,0 +1,12 @@
+{
+    "name": "vfa.cuongcl/circleci-php",
+    "description": "Simple example in PHP to test CI",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "php": "^7.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7.2"
+    }
+}
